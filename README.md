@@ -1,6 +1,6 @@
 # Machine Preventive Maintenance Detector Classification Model
 ## Web Application
-![Logo]()
+![Logo](https://github.com/Sohail00786/Machine-Preventive-Maintenance-Detector-Classification-Model/blob/df66c38a8e2234eb42dbf13276aa10510d96d907/Application%20.gif)
 ## Problem Statement
 - The problem is to reduce the cost due to unnecessary repairs by Classifying the Failure type faced by Machine so the user will have clear mind set how deal with problem according to failure made by machine. So it is required to minimize the false predictions.
 
