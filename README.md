@@ -1,4 +1,4 @@
-# Machine Preventive Maintenance Detector
+# Machine Preventive Maintenance Detector Classification Model
 ## Web Application
 ![Logo](https://github.com/Sohail00786/Residence-Charge-Estimator-2022-Regression-Model/blob/4dffb0d7ea95c45785ce125cb4635b6058b28d92/ezgif.com-gif-maker.gif)
 ## Problem Statement
