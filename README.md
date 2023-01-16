@@ -1,15 +1,11 @@
 # Machine Preventive Maintenance Detector Classification Model
 ## Web Application
-![Logo](https://github.com/Sohail00786/Residence-Charge-Estimator-2022-Regression-Model/blob/4dffb0d7ea95c45785ce125cb4635b6058b28d92/ezgif.com-gif-maker.gif)
+![Logo]()
 ## Problem Statement
-- Lots of people migartes to new cities to make there professional and educational career and want to have residence not far away from there workplace and college.This Model will help them to figured out rent based on Locality they wants to acquire,model includes major cities like Chennai, Mumbai, Delhi, Hyderabad, Kolkata and Bangalore.
-
-- When i was on college i have also faced this issue while hunting residence and due to lack of information of that particular area resulted me to pay ₹ 1500 extra for the property which we have acquired for rent.
+- The problem is to reduce the cost due to unnecessary repairs by Classifying the Failure type faced by Machine so the user will have clear mind set how deal with problem according to failure made by machine. So it is required to minimize the false predictions.
 
 ## Project Overview
-- Designed a Machine Learning Regression Model which is focused on charge of residence
-
-- Main aim of this estimator is to display residence charge based on city, locality and residence features.
+- The system in focus to Classify which type of Failure Machine is facing for Maintenance purpose on Basis of Air Temparature, Process Temparature, Rotational Speed, Tool Wear, Torque produced by Machine.
 
 
 ## Approach:
