@@ -19,7 +19,7 @@
 4. Tool Wear Failure
 5. Overstrain Failure
 6. No failure if machine is not facing any failure
- ## The Model is Evaluted on basis of four Metrics
+ ## The Model is Evaluted on Basis of Four Metrics
  - Precision
  - Recall
  - F1 Score
