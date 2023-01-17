@@ -20,6 +20,6 @@ pip install -r requirements.txt
 
 #### Step - 2 Run app.py file
 ```bash
-python app.py
+python main.py
 ```
 
